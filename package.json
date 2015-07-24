@@ -1,0 +1,22 @@
+{
+  "name": "w3ctest",
+  "version": "1.0.0",
+  "description": "wdy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elephantosw/w3ctest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elephantosw/w3ctest/issues"
+  },
+  "homepage": "https://github.com/elephantosw/w3ctest#readme",
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
